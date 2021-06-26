@@ -8,6 +8,11 @@ Tiny lightweight Kotlin Android library to change theme at runtime.
 - Fast integration
 - Support different styles for different activities
 
+## Used By:
+<a href ="https://github.com/razar-dev/PowerTube">
+  <img width="72" src="https://raw.githubusercontent.com/razar-dev/Vincent/master/other/img/powertube.png">
+</a>
+
 ## Setting your App
 
 In your Android Application class `onCreate` call the library function to set your style 
